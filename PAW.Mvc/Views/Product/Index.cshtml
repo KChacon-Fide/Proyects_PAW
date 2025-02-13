@@ -10,35 +10,46 @@
     {
         return $"₡ {value}";
     }
-} 
+}
 <div class="container">
     @foreach (var p in Model)
     {
         <ul>
-            <li>@p.Id</li>
             <li>@p.ProductId</li>
-            <li>@transformPrice(@p.Price)</li>
-            @if (string.IsNullOrEmpty(@p.Sku))
+            <li>@p.ProductName</li>
+            <li>@transformPrice(@p.UnitPrice)</li>
+
+            @if (string.IsNullOrEmpty(p.QuantityPerUnit))
             {
                 <li><label>No SKU</label></li>
             }
             else
             {
-                <li>
-                    @p.Sku
-                </li>    
-            }        
-            @switch (p.Name) {
-                case "Coca Cola":
-                    <li>@p.Name <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png" width="25" /></li>
-                    break;
-                case "Play Station 5":
-                    <li>PS5 <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$" width="25"/></li>
-                    break;
+                <li>@p.QuantityPerUnit</li>
             }
-            <li>@p.Description</li>
-            <li>@p.Quantity</li>
-        </ul>    
-    }    
+
+            @if (!string.IsNullOrEmpty(p.ProductName)) 
+            {
+                @switch (p.ProductName)  
+                {
+                    case "Coca Cola":
+                        <li>
+                            @p.ProductName
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png" width="25" />
+                        </li>
+                        break;
+                    case "Play Station 5":
+                        <li>
+                            PS5
+                            <img src="https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$" width="25" />
+                        </li>
+                        break;
+                }
+            }
+
+            <li>@p.UnitsInStock</li>
+            <li>@p.QuantityPerUnit</li>
+        </ul>
+    }
 </div>
 

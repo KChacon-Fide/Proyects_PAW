@@ -13,3 +13,19 @@ E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre I\PAW.API\PAW.Busine
 E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre I\PAW.API\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
 E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre I\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
 E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre I\PAW.API\PAW.Business\obj\Debug\net8.0\ref\PAW.Business.dll
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\bin\Debug\net8.0\PAW.Business.deps.json
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\bin\Debug\net8.0\PAW.Business.dll
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\bin\Debug\net8.0\PAW.Business.pdb
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.AssemblyReference.cache
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfoInputs.cache
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfo.cs
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.sourcelink.json
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Busi.3850708A.Up2Date
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.dll
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
+C:\Users\Kenda\source\repos\Proyects_PAW\PAW.Business\obj\Debug\net8.0\ref\PAW.Business.dll

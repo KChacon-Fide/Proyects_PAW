@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PAW.Data.Models.Supplier>
+
+<h2>Suppliers</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Supplier Name</th>
+            <th>Contact Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supplier in Model)
+        {
+            <tr>
+                <td>@supplier.SupplierName</td>
+                <td>@supplier.ContactName</td>
+            </tr>
+        }
+    </tbody>
+</table>
