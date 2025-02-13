@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_paw\\paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_paw\\paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -83,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|solutionrelative:paw.data\\resources\\scripts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_paw\\paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_paw\\paw.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1439,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Models\\Product.cs",
@@ -183,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PAW.Mvc\\Views\\Product\\Index.cshtml",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Models\\Producto.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Producto.cs",
@@ -209,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Models\\Supplier.cs",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Views\\Supplier\\Index.cshtml",
               "RelativeDocumentMoniker": "PAW.Mvc\\Views\\Supplier\\Index.cshtml",
@@ -235,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "PAW.Mvc\\Views\\Category\\Index.cshtml",
@@ -248,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Repository\\ProductRepository.cs",
@@ -261,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Repository\\IProductRepository.cs",
@@ -274,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Repository\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Repository\\RepositoryBase.cs",
@@ -287,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Repository\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Repository\\IRepositoryBase.cs",
@@ -300,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Models\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "PAW.Data\\Models\\ProductDbContext.cs",
@@ -313,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\SupplierController.cs",
@@ -326,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\CategoryController.cs",
@@ -339,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.API\\Program.cs",
               "RelativeDocumentMoniker": "PAW.API\\Program.cs",
@@ -352,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SupplierManager.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Business\\SupplierManager.cs",
               "RelativeDocumentMoniker": "PAW.Business\\SupplierManager.cs",
@@ -365,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryManager.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Business\\CategoryManager.cs",
               "RelativeDocumentMoniker": "PAW.Business\\CategoryManager.cs",
@@ -378,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\ProductController.cs",
@@ -391,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\MainController.cs",
@@ -404,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Scripts.txt",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Data\\Resources\\Scripts.txt",
               "RelativeDocumentMoniker": "PAW.Data\\Resources\\Scripts.txt",
@@ -416,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Business\\ProductManager.cs",
               "RelativeDocumentMoniker": "PAW.Business\\ProductManager.cs",
@@ -429,15 +429,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Program.cs",
               "RelativeDocumentMoniker": "PAW.Mvc\\Program.cs",
               "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_PAW\\PAW.Mvc\\Program.cs",
               "RelativeToolTip": "PAW.Mvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:54:31.048Z"
+              "WhenOpened": "2025-01-30T00:54:31.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

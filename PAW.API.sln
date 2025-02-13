@@ -9,13 +9,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Data", "PAW.Data\PAW.Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Services", "PAW.Services\PAW.Services.csproj", "{AA420FB0-57A3-47D6-85AA-5C9AE8DF58EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Mvc", "PAW.Mvc\PAW.Mvc.csproj", "{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Mvc", "PAW.Mvc\PAW.Mvc.csproj", "{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Models", "PAW.Models\PAW.Models.csproj", "{9123F48D-E3D7-4E8B-884D-2F5A08C4D0D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Models", "PAW.Models\PAW.Models.csproj", "{9123F48D-E3D7-4E8B-884D-2F5A08C4D0D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Business", "PAW.Business\PAW.Business.csproj", "{6D0CCA03-6631-4E24-BDEA-5A57386291D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Business", "PAW.Business\PAW.Business.csproj", "{6D0CCA03-6631-4E24-BDEA-5A57386291D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Architecture", "PAW.Architecture\PAW.Architecture.csproj", "{596540B3-C1E8-4BB5-AF62-5982E8758F30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAW.Architecture", "PAW.Architecture\PAW.Architecture.csproj", "{596540B3-C1E8-4BB5-AF62-5982E8758F30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{08F73C2B-2982-4E59-A6CC-421AB757880E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
